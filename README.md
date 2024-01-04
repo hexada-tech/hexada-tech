@@ -5,9 +5,9 @@
   
 <p align="center">Please Don't use the app in illegal actions</p>
 
-<p align="center"><img src="https://i.ibb.co/fkKwcgv/Screenshot-2024-01-03-21-22-24-864-ma-fox-fhex-whats-virus-com.jpg" width="1080" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.ibb.co/88y5gy3/Screenshot-2024-01-03-21-22-20-953-ma-fox-fhex-whats-virus-com.jpg" width="1078" height="433" alt="POWER"></p>
-<p align="center"><img src="https://i.ibb.co/svyxNfJ/Screenshot-2024-01-03-21-22-02-607-ma-fox-fhex-whats-virus-com.jpg" width="1078" height="433" alt="POWER"></p>
+<p align="center"><img src="https://i.ibb.co/fkKwcgv/Screenshot-2024-01-03-21-22-24-864-ma-fox-fhex-whats-virus-com.jpg" width="600" height="433" alt="POWER"></p>
+<p align="center"><img src="https://i.ibb.co/88y5gy3/Screenshot-2024-01-03-21-22-20-953-ma-fox-fhex-whats-virus-com.jpg" width="600" height="433" alt="POWER"></p>
+<p align="center"><img src="https://i.ibb.co/svyxNfJ/Screenshot-2024-01-03-21-22-02-607-ma-fox-fhex-whats-virus-com.jpg" width="600" height="433" alt="POWER"></p>
 
 ## Features of the app
 
